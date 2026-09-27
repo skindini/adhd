@@ -1,6 +1,6 @@
 ---
 name: adhd
-description: Parallel divergent ideation for coding agents. Spawns N isolated branches under different cognitive frames (regulator, biology, speedrunner, 10-year-old, $0 budget), scores, clusters, prunes traps, and deepens top survivors. Use on /adhd, "ADHD mode", brainstorm/ideate intents, or open-ended design, architecture, naming, API/SDK surface, and fuzzy-debugging decisions. Skip for syntax, lookups, bugs with known root cause, or closed phrasing ("quick", "standard", "canonical", "textbook"). Full pre-flight gate is in the skill body.
+description: "Parallel divergent ideation: N isolated branches under different cognitive frames, scored, clustered, trap-pruned, top survivors deepened. Use on /adhd, \"ADHD mode\", brainstorm/ideate, or open-ended design, architecture, naming, API-surface, and fuzzy-debugging decisions. Skip for syntax, lookups, known-root-cause bugs, or closed phrasing (\"quick\", \"standard\", \"canonical\", \"textbook\")."
 license: MIT
 ---
 
